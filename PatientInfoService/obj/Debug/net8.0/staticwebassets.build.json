@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Vog/ECvMNjbzpxxM+iS1xQnXneV2qTjENfYDctkgI3c=",
+  "Source": "PatientInfoService",
+  "BasePath": "_content/PatientInfoService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
